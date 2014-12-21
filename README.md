@@ -18,3 +18,10 @@ And now for lists:
 * item 3
 
 And back to normal text (in the .MD file, this requires a free line after the list).
+
+Further information on Markdown syntax:
+* http://daringfireball.net/projects/markdown
+* MD button in RStudio
+* http://www.rstudio.com/ide/docs/authoring/using_markdown
+
+
